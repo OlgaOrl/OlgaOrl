@@ -39,7 +39,7 @@ Currently completing an internship and open to **junior developer roles**.
 - Server migration and disaster recovery (Docker Swarm, PostgreSQL)
 - AI and cybersecurity (CybAI)
 - Viridarium business website
-- Improving fullstack application architecture
+- Building mobile apps with AI integration
 
 ### Languages
 
