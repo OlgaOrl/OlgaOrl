@@ -18,7 +18,7 @@ Currently completing an internship and open to **junior developer roles**.
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| Tree Fungi Identifier | TypeScript / Mobile | AI-powered tree fungi identification app (Android) |
+| Tree Fungi Identifier | TypeScript / Mobile | AI-powered tree fungi identification app (Android & iOS) |
 | Numerology | Java | Numerology calculation system |
 | Viridarium | TypeScript | Business website (in progress) |
 | Piletimaailm | Ruby on Rails | Ticket sales platform — server migration & disaster recovery |
