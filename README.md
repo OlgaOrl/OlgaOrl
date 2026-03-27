@@ -31,8 +31,8 @@ Currently completing an internship and open to **junior developer roles**.
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [CybAI](https://github.com/OlgaOrl/CybAI) | Python | AI-powered cybersecurity tool |
-| Piletimaailm | Ruby on Rails | Ticket sales platform — server migration & disaster recovery |
-| PuhastusProff | PHP · JavaScript · .NET Core · Handlebars | Corporate ecosystem — website, intranet, extranet, invoice management, financial app |
+| Piletimaailm | Ruby on Rails | Ticket sales platform - server migration & disaster recovery |
+| PuhastusProff | PHP · JavaScript · .NET Core · Handlebars | Corporate ecosystem - website, intranet, extranet, invoice management, financial app |
 
 ### What I'm working on
 
