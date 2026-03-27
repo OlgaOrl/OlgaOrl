@@ -1,45 +1,37 @@
 ## Hi, I'm Olga 👋
 
-Junior **Fullstack Developer**  
-I build web applications and work with both frontend and backend technologies.  
-Currently open to **junior roles** and **internships**.
+Junior **Fullstack Developer** based in Estonia
+Building web applications with modern frontend and backend technologies.
+Currently completing an internship and open to **junior developer roles**.
 
 ### Tech Stack
-- **Languages:** JavaScript, TypeScript, PHP, Java
-- **Frontend:** HTML, CSS, React, Vue.js
-- **Backend:** Node.js, PHP
-- **APIs & Data:** REST APIs, JSON, Swagger (OpenAPI)
-- **Tools:** Git, GitHub, Jira
 
-### Projects
-I have several educational and personal projects, including fullstack and PHP-based applications.  
-Some of them are private (study projects or work in progress).  
-Public repositories will be added gradually.
+**Languages:** JavaScript · TypeScript · PHP · Java · Go · Python
+**Frontend:** React · Vue.js · HTML · CSS
+**Backend:** Node.js · PHP · Go
+**Databases:** PostgreSQL · MySQL
+**DevOps:** Docker · Docker Swarm · Linux (Alpine/Ubuntu) · SSH · Nginx
+**APIs:** REST · GraphQL · gRPC · SOAP · Swagger (OpenAPI)
+**Tools:** Git · GitHub · Jira · PhpStorm · VS Code
 
-### What I’m working on
-- Improving fullstack application structure
-- Backend development and API integration
-- Writing clean and maintainable code
+### Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| Tree Fungi Identifier | Mobile / AI | AI-powered tree fungi identification app (Android) |
+| [CybAI](https://github.com/OlgaOrl/CybAI) | Python | AI-powered cybersecurity tool |
+| [Boardify](https://github.com/OlgaOrl/Boardify) | — | Visual project management system (Trello-inspired) |
+| [Massage-booking-website](https://github.com/OlgaOrl/Massage-booking-website) | Go | Service booking platform |
+| [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript | Inventory tracking system |
+| [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | JavaScript | Online marketplace (REST + GraphQL + gRPC + SOAP) |
+| [Minibank](https://github.com/OlgaOrl/Minibank) | JavaScript | Banking application |
+
+### What I'm working on
+
+- Server migration and disaster recovery (Docker Swarm, PostgreSQL)
+- AI and cybersecurity (CybAI)
+- Improving fullstack application architecture
 
 ### Languages
-- English
-- Russian
-- Estonian
 
-### Contact
-- GitHub: https://github.com/OlgaOrl
-
-<!--
-**OlgaOrl/OlgaOrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇬🇧 English · 🇪🇪 Estonian · 🇷🇺 Russian
