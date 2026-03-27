@@ -6,9 +6,9 @@ Currently completing an internship and open to **junior developer roles**.
 
 ### Tech Stack
 
-**Languages:** JavaScript · TypeScript · PHP · Java · Go · Python
+**Languages:** JavaScript · TypeScript · PHP · Java · Go · Python · Ruby
 **Frontend:** React · Vue.js · HTML · CSS
-**Backend:** Node.js · PHP · Go
+**Backend:** Node.js · PHP · Go · Ruby on Rails
 **Databases:** PostgreSQL · MySQL
 **DevOps:** Docker · Docker Swarm · Linux (Alpine/Ubuntu) · SSH · Nginx
 **APIs:** REST · GraphQL · gRPC · SOAP · Swagger (OpenAPI)
@@ -18,7 +18,10 @@ Currently completing an internship and open to **junior developer roles**.
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| Tree Fungi Identifier | Mobile / AI | AI-powered tree fungi identification app (Android) |
+| Tree Fungi Identifier | TypeScript / Mobile | AI-powered tree fungi identification app (Android) |
+| Numerology | Java | Numerology calculation system |
+| Viridarium | TypeScript | Business website (in progress) |
+| Piletimaailm | Ruby on Rails | Ticket sales platform — server migration & disaster recovery |
 | [CybAI](https://github.com/OlgaOrl/CybAI) | Python | AI-powered cybersecurity tool |
 | [Boardify](https://github.com/OlgaOrl/Boardify) | — | Visual project management system (Trello-inspired) |
 | [Massage-booking-website](https://github.com/OlgaOrl/Massage-booking-website) | Go | Service booking platform |
@@ -30,6 +33,7 @@ Currently completing an internship and open to **junior developer roles**.
 
 - Server migration and disaster recovery (Docker Swarm, PostgreSQL)
 - AI and cybersecurity (CybAI)
+- Viridarium business website
 - Improving fullstack application architecture
 
 ### Languages
