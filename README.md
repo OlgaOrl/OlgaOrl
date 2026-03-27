@@ -21,13 +21,24 @@ Currently completing an internship and open to **junior developer roles**.
 | Tree Fungi Identifier | TypeScript / Mobile | AI-powered tree fungi identification app (Android & iOS) |
 | Numerology | Java | Numerology calculation system |
 | Viridarium | TypeScript | Business website (in progress) |
-| Piletimaailm | Ruby on Rails | Ticket sales platform — server migration & disaster recovery |
 | [CybAI](https://github.com/OlgaOrl/CybAI) | Python | AI-powered cybersecurity tool |
 | [Boardify](https://github.com/OlgaOrl/Boardify) | — | Visual project management system (Trello-inspired) |
 | [Massage-booking-website](https://github.com/OlgaOrl/Massage-booking-website) | Go | Service booking platform |
 | [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript | Inventory tracking system |
 | [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | JavaScript | Online marketplace (REST + GraphQL + gRPC + SOAP) |
 | [Minibank](https://github.com/OlgaOrl/Minibank) | JavaScript | Banking application |
+
+### Collaborator Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| Piletimaailm | Ruby on Rails | Ticket sales platform — server migration & disaster recovery |
+| PuhastusProff.ee | PHP | Corporate website |
+| PuhastusProff Intranet | JavaScript | Employee internal portal |
+| OstuWeb | JavaScript | Purchase invoice management |
+| SAF-web | .NET Core / TSQL | Modern web application |
+| PP-Extranet | Handlebars | Extranet portal |
+| PP-Finar | PHP | Financial application |
 
 ### What I'm working on
 
