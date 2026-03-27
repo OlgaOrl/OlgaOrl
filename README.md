@@ -8,8 +8,8 @@ Currently completing an internship and open to **junior developer roles**.
 
 **Languages:** JavaScript · TypeScript · PHP · Java · Go · Python · Ruby
 **Frontend:** React · Vue.js · HTML · CSS
-**Backend:** Node.js · PHP · Go · Ruby on Rails
-**Databases:** PostgreSQL · MySQL
+**Backend:** Node.js · PHP · Go · Ruby on Rails · .NET Core
+**Databases:** PostgreSQL · MySQL · TSQL
 **DevOps:** Docker · Docker Swarm · Linux (Alpine/Ubuntu) · SSH · Nginx
 **APIs:** REST · GraphQL · gRPC · SOAP · Swagger (OpenAPI)
 **Tools:** Git · GitHub · Jira · PhpStorm · VS Code
@@ -22,7 +22,6 @@ Currently completing an internship and open to **junior developer roles**.
 | Numerology | Java | Numerology calculation system |
 | Viridarium | TypeScript | Business website (in progress) |
 | [CybAI](https://github.com/OlgaOrl/CybAI) | Python | AI-powered cybersecurity tool |
-| [Boardify](https://github.com/OlgaOrl/Boardify) | — | Visual project management system (Trello-inspired) |
 | [Massage-booking-website](https://github.com/OlgaOrl/Massage-booking-website) | Go | Service booking platform |
 | [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript | Inventory tracking system |
 | [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | JavaScript | Online marketplace (REST + GraphQL + gRPC + SOAP) |
@@ -33,12 +32,7 @@ Currently completing an internship and open to **junior developer roles**.
 | Project | Stack | Description |
 |---------|-------|-------------|
 | Piletimaailm | Ruby on Rails | Ticket sales platform — server migration & disaster recovery |
-| PuhastusProff.ee | PHP | Corporate website |
-| PuhastusProff Intranet | JavaScript | Employee internal portal |
-| OstuWeb | JavaScript | Purchase invoice management |
-| SAF-web | .NET Core / TSQL | Modern web application |
-| PP-Extranet | Handlebars | Extranet portal |
-| PP-Finar | PHP | Financial application |
+| PuhastusProff | PHP · JavaScript · .NET Core · Handlebars | Corporate ecosystem — website, intranet, extranet, invoice management, financial app |
 
 ### What I'm working on
 
