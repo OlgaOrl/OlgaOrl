@@ -21,7 +21,6 @@ Currently completing an internship and open to **junior developer roles**.
 | Tree Fungi Identifier | TypeScript / Mobile | AI-powered tree fungi identification app (Android & iOS) |
 | Numerology | Java | Numerology calculation system |
 | Viridarium | TypeScript | Business website (in progress) |
-| [CybAI](https://github.com/OlgaOrl/CybAI) | Python | AI-powered cybersecurity tool |
 | [Massage-booking-website](https://github.com/OlgaOrl/Massage-booking-website) | Go | Service booking platform |
 | [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript | Inventory tracking system |
 | [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | JavaScript | Online marketplace (REST + GraphQL + gRPC + SOAP) |
@@ -31,6 +30,7 @@ Currently completing an internship and open to **junior developer roles**.
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [CybAI](https://github.com/OlgaOrl/CybAI) | Python | AI-powered cybersecurity tool |
 | Piletimaailm | Ruby on Rails | Ticket sales platform — server migration & disaster recovery |
 | PuhastusProff | PHP · JavaScript · .NET Core · Handlebars | Corporate ecosystem — website, intranet, extranet, invoice management, financial app |
 
