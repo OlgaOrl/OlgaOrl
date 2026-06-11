@@ -6,8 +6,6 @@
   <a href="https://play.google.com/store/apps/details?id=com.olgaorl.treefungiidentifier">
     <img src="https://img.shields.io/badge/Tree%20Fungi%20Identifier-Google%20Play-353A4C?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
   </a>
-  <img src="https://img.shields.io/badge/EKR-Level%204-blue?style=for-the-badge" alt="EKR Level 4"/>
-  <img src="https://img.shields.io/badge/Practice-780%20hours-orange?style=for-the-badge" alt="Practice hours"/>
 </p>
 
 ## Junior Software Developer
