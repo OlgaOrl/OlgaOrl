@@ -28,7 +28,7 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 <tr><th width="180">Project</th><th width="280">Stack</th><th>Description</th></tr>
 <tr>
 <td><b>Tree Fungi Identifier</b></td>
-<td>TypeScript · React Native · Expo · Firebase · Python · FastAPI · PyTorch · ViT · SQLite</td>
+<td>TypeScript · React Native · Expo · Firebase · Python · FastAPI · PyTorch · ViT</td>
 <td><img src="tree_fungi_qr.png" width="100" align="right" alt="Google Play QR"> AI mobile app for Estonian Arborists Association - 40 tree fungi species identification from photo, multilingual (ET/EN/RU), GPS location, PlutoF integration. <b><a href="https://play.google.com/store/apps/details?id=com.olgaorl.treefungiidentifier">Available on Google Play</a></b></td>
 </tr>
 </table>
