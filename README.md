@@ -16,7 +16,7 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 <tr><td>🧩 <b>Integrations</b></td><td>PlutoF API · Firebase · Twilio</td></tr>
 <tr><td>🚀 <b>DevOps</b></td><td>Git · GitHub · GitHub Actions · Docker · nginx · SSH</td></tr>
 <tr><td>🖥 <b>Servers</b></td><td>Linux (Ubuntu, Alpine) · Hetzner Cloud</td></tr>
-<tr><td>🧪 <b>Testing</b></td><td>JUnit · pytest · Jest · Maestro (mobile E2E) · Playwright · Cucumber/Gherkin (BDD) · k6</td></tr>
+<tr><td>🧪 <b>Testing</b></td><td>JUnit · pytest · Jest · Maestro (mobile E2E) · Playwright · k6</td></tr>
 <tr><td>✨ <b>Code quality</b></td><td>SOLID · DRY · YAGNI · code smells · MVC · ESLint · code review</td></tr>
 <tr><td>🤖 <b>AI</b></td><td>Anthropic Claude API · PyTorch · Vision Transformer (ViT)</td></tr>
 <tr><td>🔒 <b>Security</b></td><td>OWASP audit · OAuth2 · Firebase Auth · JWT · bcrypt · TLS · Rate limiting · Cloudflare (Bot/DDoS) · UFW · fail2ban</td></tr>
@@ -42,7 +42,7 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [olgabank](https://github.com/OlgaOrl/olgabank) | Node.js · Express 5 · MySQL · JWT · bcrypt · Swagger UI | Banking REST API: authentication, account management, transfers |
-| [Minibank](https://github.com/OlgaOrl/Minibank) | Cucumber · Gherkin · Jest · Docker | Banking app with BDD test suite (behaviour-driven development practice) |
+| [Minibank](https://github.com/OlgaOrl/Minibank) | JavaScript · Jest · Docker | Banking app with Jest test suite |
 | [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | Node.js · Java · Apache CXF · Go · gRPC | Same business logic across 4 API paradigms (REST / SOAP / GraphQL / gRPC) |
 | [Numerology](https://github.com/OlgaOrl/Numerology) | Java 17 · Spring Boot · Spring Data JPA · Thymeleaf · H2 · Lombok · Maven · Checkstyle · JaCoCo · Spotless | Web app — Spring Boot REST + service layer + CI quality gates |
 | [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript · Prisma | Inventory tracking system with type-safe ORM |
