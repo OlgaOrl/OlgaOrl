@@ -27,10 +27,10 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| Puhastusproff Finar | PHP 8.2 · MySQL · MSSQL · Docker | ERP system: sales orders, purchase invoices, payroll, password security |
-| Topograph | TypeScript · Bun · React 19 · Hono · Drizzle | Internal network topology management app (client: Tõrva Vallavalitsus) |
-| Piletimaailm | Ruby on Rails · Go · Docker · Alpine | Multi-service stack migration to new server |
-| Puukool | PHP · Vue 2 · Pusher | Garden centre management system |
+| Puhastusproff Finar | PHP 8.2 · MySQL · MSSQL · Docker | ERP system. Implemented sales order autosave with WebSocket sync, purchase invoice inline editing, salary approval workflow, password security generator with Estonian words |
+| Topograph | TypeScript · Bun · React 19 · Hono · Drizzle | Internal network topology management app (client: Tõrva Vallavalitsus). Added new device flagging, email notifications, missing device tracking with color indicators |
+| Piletimaailm | Ruby on Rails · Go · Docker · Alpine | Online ticketing platform — disaster recovery, server migration, sandboxed local dev. Migrated production Docker Swarm stack to new host, restored PostgreSQL, authored runbooks validated end-to-end on a fresh VM |
+| Puukool | PHP · Vue 2 · Pusher | Garden centre management system. Diagnosed and fixed Pusher realtime AJAX error returning HTML on failure |
 
 ### School & personal projects
 
