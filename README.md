@@ -8,9 +8,9 @@
   </a>
 </p>
 
-## Junior Software Developer
+## Junior Software Developer, EstQF Level 4
 
-Based in Estonia, recently certified (Estonian professional qualification, framework level 4).
+Based in Estonia.
 
 After 780 hours of industry internship at Diara Infra OÜ, looking for a junior developer position - open to backend, fullstack or mobile roles. Remote or Tartu hybrid.
 
