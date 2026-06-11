@@ -9,9 +9,10 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 | Category | Technologies |
 |----------|--------------|
 | 🛠 **Languages** | Java · JavaScript · TypeScript · Python · Go · PHP · Ruby · SQL |
-| ⚙️ **Backend** | Spring Boot · FastAPI · Express · Hono · Apache CXF (SOAP) |
-| 🎨 **Frontend / Mobile** | React · React Native · Vue 2 · HTML · CSS |
-| 🗄 **Databases** | PostgreSQL · MySQL · MSSQL · SQLite |
+| ⚙️ **Backend** | Spring Boot · FastAPI · Flask · Express · Hono · Ruby on Rails · Apache CXF (SOAP) |
+| 🎨 **Frontend** | React · Vue 2 · Bootstrap · Thymeleaf · HTML · CSS |
+| 📱 **Mobile** | React Native · Expo |
+| 🗄 **Databases** | PostgreSQL · MySQL · MSSQL · SQLite · Firebase |
 | 🔌 **APIs** | REST · SOAP · GraphQL · WebSocket |
 | 🚀 **DevOps** | Git · GitHub · GitHub Actions · Docker · Linux · nginx · SSH |
 | 🧪 **Testing** | JUnit · JaCoCo · pytest · Jest · Maestro (mobile E2E) · Playwright · Cucumber/Gherkin (BDD) · k6 |
