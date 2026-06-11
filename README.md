@@ -39,7 +39,3 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 ### Languages
 
 🇪🇪 Estonian (C1) · 🇬🇧 English (B2) · 🇷🇺 Russian (native)
-
-### Contact
-
-📧 olga88orlova@gmail.com
