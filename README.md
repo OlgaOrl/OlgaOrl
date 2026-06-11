@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.olgaorl.treefungiidentifier">
-    <img src="https://img.shields.io/badge/Tree%20Fungi%20Identifier-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+    <img src="https://img.shields.io/badge/Tree%20Fungi%20Identifier-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" height="42"/>
   </a>
 </p>
 
