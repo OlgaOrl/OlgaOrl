@@ -16,7 +16,7 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 <tr><td>🧩 <b>Integrations</b></td><td>PlutoF API · Firebase · Twilio</td></tr>
 <tr><td>🚀 <b>DevOps</b></td><td>Git · GitHub · GitHub Actions · Docker · nginx · SSH</td></tr>
 <tr><td>🖥 <b>Servers</b></td><td>Linux (Ubuntu, Alpine) · Hetzner Cloud</td></tr>
-<tr><td>🧪 <b>Testing</b></td><td>JUnit · JaCoCo · pytest · Jest · Maestro (mobile E2E) · Playwright · Cucumber/Gherkin (BDD) · k6</td></tr>
+<tr><td>🧪 <b>Testing</b></td><td>JUnit · pytest · Jest · Maestro (mobile E2E) · Playwright · Cucumber/Gherkin (BDD) · k6</td></tr>
 <tr><td>✨ <b>Code quality</b></td><td>SOLID · DRY · YAGNI · code smells · MVC · ESLint · code review</td></tr>
 <tr><td>🤖 <b>AI</b></td><td>Anthropic Claude API · PyTorch · Vision Transformer (ViT)</td></tr>
 <tr><td>🔒 <b>Security</b></td><td>OWASP audit · OAuth2 · Firebase Auth · JWT · bcrypt · TLS · Rate limiting · Cloudflare (Bot/DDoS) · UFW · fail2ban</td></tr>
