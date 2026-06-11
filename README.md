@@ -15,7 +15,8 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 | 🗄 **Databases** | PostgreSQL · MySQL · MSSQL · SQLite |
 | 🔌 **APIs** | REST · SOAP · GraphQL · gRPC · WebSocket · OpenAPI/Swagger |
 | 🧩 **Integrations** | PlutoF API · Firebase · Twilio |
-| 🚀 **DevOps** | Git · GitHub · GitHub Actions · Docker · Linux · nginx · SSH |
+| 🚀 **DevOps** | Git · GitHub · GitHub Actions · Docker · nginx · SSH |
+| 🖥 **Servers** | Linux (Ubuntu, Alpine) · Hetzner Cloud |
 | 🧪 **Testing** | JUnit · JaCoCo · pytest · Jest · Maestro (mobile E2E) · Playwright · Cucumber/Gherkin (BDD) · k6 |
 | ✨ **Code quality** | SOLID · DRY · YAGNI · code smells · MVC · ESLint · code review |
 | 🤖 **AI** | Anthropic Claude API · PyTorch · Vision Transformer (ViT) |
