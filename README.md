@@ -14,8 +14,7 @@ After 780 hours of industry internship at Diara Infra OÜ, looking for a junior 
 
 ### Tech Stack
 
-#### Languages
-![Java](https://img.shields.io/badge/Java-4682B4?style=flat-square&logo=openjdk&logoColor=white)
+**Languages:** ![Java](https://img.shields.io/badge/Java-4682B4?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4682B4?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4682B4?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4682B4?style=flat-square&logo=python&logoColor=white)
@@ -24,8 +23,7 @@ After 780 hours of industry internship at Diara Infra OÜ, looking for a junior 
 ![Ruby](https://img.shields.io/badge/Ruby-4682B4?style=flat-square&logo=ruby&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4682B4?style=flat-square&logo=mysql&logoColor=white)
 
-#### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4682B4?style=flat-square&logo=springboot&logoColor=white)
+**Backend:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4682B4?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-4682B4?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-4682B4?style=flat-square&logo=flask&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4682B4?style=flat-square&logo=express&logoColor=white)
@@ -33,61 +31,52 @@ After 780 hours of industry internship at Diara Infra OÜ, looking for a junior 
 ![Rails](https://img.shields.io/badge/Rails-4682B4?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Apache CXF](https://img.shields.io/badge/Apache%20CXF-4682B4?style=flat-square&logo=apache&logoColor=white)
 
-#### Frontend
-![React](https://img.shields.io/badge/React-4682B4?style=flat-square&logo=react&logoColor=white)
+**Frontend:** ![React](https://img.shields.io/badge/React-4682B4?style=flat-square&logo=react&logoColor=white)
 ![Vue 2](https://img.shields.io/badge/Vue%202-4682B4?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4682B4?style=flat-square&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-4682B4?style=flat-square&logo=thymeleaf&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-4682B4?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-4682B4?style=flat-square&logo=css3&logoColor=white)
 
-#### Mobile
-![React Native](https://img.shields.io/badge/React%20Native-4682B4?style=flat-square&logo=react&logoColor=white)
+**Mobile:** ![React Native](https://img.shields.io/badge/React%20Native-4682B4?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-4682B4?style=flat-square&logo=expo&logoColor=white)
 
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4682B4?style=flat-square&logo=postgresql&logoColor=white)
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4682B4?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4682B4?style=flat-square&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-4682B4?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-4682B4?style=flat-square&logo=sqlite&logoColor=white)
 
-#### APIs
-![REST](https://img.shields.io/badge/REST-4682B4?style=flat-square)
+**APIs:** ![REST](https://img.shields.io/badge/REST-4682B4?style=flat-square)
 ![SOAP](https://img.shields.io/badge/SOAP-4682B4?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-4682B4?style=flat-square&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4682B4?style=flat-square&logo=grpc&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4682B4?style=flat-square)
 ![Swagger](https://img.shields.io/badge/Swagger-4682B4?style=flat-square&logo=swagger&logoColor=white)
 
-#### Integrations
-![PlutoF API](https://img.shields.io/badge/PlutoF%20API-4682B4?style=flat-square)
+**Integrations:** ![PlutoF API](https://img.shields.io/badge/PlutoF%20API-4682B4?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-4682B4?style=flat-square&logo=firebase&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-4682B4?style=flat-square&logo=twilio&logoColor=white)
 
-#### DevOps
-![Git](https://img.shields.io/badge/Git-4682B4?style=flat-square&logo=git&logoColor=white)
+**DevOps:** ![Git](https://img.shields.io/badge/Git-4682B4?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-4682B4?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-4682B4?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4682B4?style=flat-square&logo=docker&logoColor=white)
 
-#### Servers
-![Linux](https://img.shields.io/badge/Linux-4682B4?style=flat-square&logo=linux&logoColor=white)
+**Servers:** ![Linux](https://img.shields.io/badge/Linux-4682B4?style=flat-square&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-4682B4?style=flat-square&logo=ubuntu&logoColor=white)
 ![Alpine](https://img.shields.io/badge/Alpine-4682B4?style=flat-square&logo=alpinelinux&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-4682B4?style=flat-square&logo=hetzner&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-4682B4?style=flat-square&logo=nginx&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4682B4?style=flat-square&logo=openssh&logoColor=white)
 
-#### Testing
-![JUnit](https://img.shields.io/badge/JUnit-4682B4?style=flat-square&logo=junit5&logoColor=white)
+**Testing:** ![JUnit](https://img.shields.io/badge/JUnit-4682B4?style=flat-square&logo=junit5&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-4682B4?style=flat-square&logo=pytest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-4682B4?style=flat-square&logo=jest&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro%20(mobile%20E2E)-4682B4?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-4682B4?style=flat-square&logo=playwright&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-4682B4?style=flat-square&logo=k6&logoColor=white)
 
-#### Code quality
-![SOLID](https://img.shields.io/badge/SOLID-4682B4?style=flat-square)
+**Code quality:** ![SOLID](https://img.shields.io/badge/SOLID-4682B4?style=flat-square)
 ![DRY](https://img.shields.io/badge/DRY-4682B4?style=flat-square)
 ![YAGNI](https://img.shields.io/badge/YAGNI-4682B4?style=flat-square)
 ![Code smells](https://img.shields.io/badge/Code%20smells-4682B4?style=flat-square)
@@ -95,13 +84,11 @@ After 780 hours of industry internship at Diara Infra OÜ, looking for a junior 
 ![ESLint](https://img.shields.io/badge/ESLint-4682B4?style=flat-square&logo=eslint&logoColor=white)
 ![Code review](https://img.shields.io/badge/Code%20review-4682B4?style=flat-square)
 
-#### AI
-![Claude](https://img.shields.io/badge/Anthropic%20Claude%20API-4682B4?style=flat-square&logo=anthropic&logoColor=white)
+**AI:** ![Claude](https://img.shields.io/badge/Anthropic%20Claude%20API-4682B4?style=flat-square&logo=anthropic&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-4682B4?style=flat-square&logo=pytorch&logoColor=white)
 ![ViT](https://img.shields.io/badge/Vision%20Transformer%20(ViT)-4682B4?style=flat-square)
 
-#### Security
-![OWASP](https://img.shields.io/badge/OWASP%20audit-4682B4?style=flat-square&logo=owasp&logoColor=white)
+**Security:** ![OWASP](https://img.shields.io/badge/OWASP%20audit-4682B4?style=flat-square&logo=owasp&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-4682B4?style=flat-square&logo=auth0&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-4682B4?style=flat-square&logo=firebase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-4682B4?style=flat-square&logo=jsonwebtokens&logoColor=white)
