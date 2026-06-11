@@ -3,14 +3,15 @@
 </p>
 
 <p align="center">
+  <h3 align="center">Tree Fungi Identifier</h3>
   <a href="https://play.google.com/store/apps/details?id=com.olgaorl.treefungiidentifier">
-    <img src="https://img.shields.io/badge/Tree%20Fungi%20Identifier-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+    <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
   </a>
 </p>
 
 Based in Estonia. Recently certified (EstQF Level 4).
 
-After 780 hours of industry internship at Diara Infra OÜ, looking for a junior developer position - open to backend, fullstack or mobile roles. Remote or hybrid.
+After 780 hours of industry internship at Diara Infra OÜ, looking for a junior developer position - open to backend, fullstack or mobile roles, remote or hybrid.
 
 ### Tech Stack
 
