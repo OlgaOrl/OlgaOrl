@@ -82,7 +82,7 @@ After 780 hours of industry internship at Diara Infra OÜ, looking for a junior 
 ![JUnit](https://img.shields.io/badge/JUnit-14532D?style=flat-square&logo=junit5&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-14532D?style=flat-square&logo=pytest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-14532D?style=flat-square&logo=jest&logoColor=white)
-![Maestro](https://img.shields.io/badge/Maestro%20(mobile%20E2E)-7B68EE?style=flat-square)
+![Maestro](https://img.shields.io/badge/Maestro%20(mobile%20E2E)-14532D?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-14532D?style=flat-square&logo=playwright&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-14532D?style=flat-square&logo=k6&logoColor=white)
 
@@ -98,7 +98,7 @@ After 780 hours of industry internship at Diara Infra OÜ, looking for a junior 
 **AI**
 ![Claude](https://img.shields.io/badge/Anthropic%20Claude%20API-14532D?style=flat-square&logo=anthropic&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-14532D?style=flat-square&logo=pytorch&logoColor=white)
-![ViT](https://img.shields.io/badge/Vision%20Transformer%20(ViT)-4A90E2?style=flat-square)
+![ViT](https://img.shields.io/badge/Vision%20Transformer%20(ViT)-14532D?style=flat-square)
 
 **Security**
 ![OWASP](https://img.shields.io/badge/OWASP%20audit-14532D?style=flat-square&logo=owasp&logoColor=white)
