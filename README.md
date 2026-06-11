@@ -22,6 +22,11 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [Tree Fungi Identifier](https://github.com/OlgaOrl/Tree_Fungi_Identifier) | React Native · FastAPI · PyTorch | AI mobile app for Estonian Arborists Association — 40 tree fungi species identification. **Published on iOS App Store + Google Play.** |
+
+### Internship Projects @ Diara Infra OÜ
+
+| Project | Stack | Description |
+|---------|-------|-------------|
 | Puhastusproff Finar | PHP 8.2 · MySQL · MSSQL · Docker | ERP system: sales orders, purchase invoices, payroll, password security |
 | Topograph | TypeScript · Bun · React 19 · Hono · Drizzle | Internal network topology management app (client: Tõrva Vallavalitsus) |
 | Piletimaailm | Ruby on Rails · Go · Docker · Alpine | Multi-service stack migration to new server |
