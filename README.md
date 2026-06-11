@@ -1,46 +1,45 @@
 ## Hi, I'm Olga 👋
 
-Junior **Fullstack Developer** based in Estonia
-Building web applications with modern frontend and backend technologies.
-Currently completing an internship and open to **junior developer roles**.
+**Junior Software Developer** based in Estonia, recently certified (EKR level 4, kutsetunnistus nr 240595).
+
+After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a junior developer position — open to backend, fullstack or mobile roles. Remote, Tartu or Tallinn.
 
 ### Tech Stack
 
-**Languages:** JavaScript · TypeScript · PHP · Java · Go · Python · Ruby
-**Frontend:** React · Vue.js · HTML · CSS
-**Backend:** Node.js · PHP · Go · Ruby on Rails · .NET Core
-**Databases:** PostgreSQL · MySQL · TSQL
-**DevOps:** Docker · Docker Swarm · Linux (Alpine/Ubuntu) · SSH · Nginx
-**APIs:** REST · GraphQL · gRPC · SOAP · Swagger (OpenAPI)
-**Tools:** Git · GitHub · Jira · PhpStorm · VS Code
+**Languages:** Java · JavaScript · TypeScript · Python · Go · PHP · Ruby · SQL
+**Backend:** Spring Boot · FastAPI · Express · Hono · Apache CXF (SOAP)
+**Frontend / Mobile:** React · React Native · Vue 2 · HTML · CSS
+**Databases:** PostgreSQL · MySQL · MSSQL · SQLite
+**APIs:** REST · SOAP · GraphQL · WebSocket
+**DevOps:** Git · GitHub · GitHub Actions · Docker · Linux · nginx · SSH
+**Testing:** JUnit · pytest · Playwright · k6
+**Code quality:** SOLID · DRY · YAGNI · code smells · MVC · ESLint · code review
+**AI:** Anthropic Claude API · PyTorch · Vision Transformer (ViT)
+**Security:** OWASP · KüTS · E-ITS
 
 ### Featured Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| Tree Fungi Identifier | TypeScript / Mobile | AI-powered tree fungi identification app (Android & iOS) |
-| Numerology | Java | Numerology calculation system |
-| Viridarium | TypeScript | Business website (in progress) |
-| [Massage-booking-website](https://github.com/OlgaOrl/Massage-booking-website) | Go | Service booking platform |
-| [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript | Inventory tracking system |
-| [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | JavaScript | Online marketplace (REST + GraphQL + gRPC + SOAP) |
-| [Minibank](https://github.com/OlgaOrl/Minibank) | JavaScript | Banking application |
+| [Tree Fungi Identifier](https://github.com/OlgaOrl/Tree_Fungi_Identifier) | React Native · FastAPI · PyTorch | AI mobile app for Estonian Arborists Association — 40 tree fungi species identification. **Published on iOS App Store + Google Play.** |
+| Puhastusproff Finar | PHP 8.2 · MySQL · MSSQL · Docker | ERP system: sales orders, purchase invoices, payroll, password security |
+| Topograph | TypeScript · Bun · React 19 · Hono · Drizzle | Internal network topology management app (client: Tõrva Vallavalitsus) |
+| Piletimaailm | Ruby on Rails · Go · Docker · Alpine | Multi-service stack migration to new server |
+| Puukool | PHP · Vue 2 · Pusher | Garden centre management system |
 
-### Collaborator Projects
+### School & personal projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [CybAI](https://github.com/OlgaOrl/CybAI) | Python | AI-powered cybersecurity tool |
-| Piletimaailm | Ruby on Rails | Ticket sales platform - server migration & disaster recovery |
-| PuhastusProff | PHP · JavaScript · .NET Core · Handlebars | Corporate ecosystem - website, intranet, extranet, invoice management, financial app |
-
-### What I'm working on
-
-- Server migration and disaster recovery (Docker Swarm, PostgreSQL)
-- AI and cybersecurity (CybAI)
-- Viridarium business website
-- Building mobile app with AI integration
+| [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | Node.js · Java · Go | Same business logic across 4 API paradigms (REST / SOAP / GraphQL / gRPC) |
+| [Numerology](https://github.com/OlgaOrl/Numerology) | Java · Spring Boot · Thymeleaf | Web app — Spring Boot REST + service layer practice |
+| [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript | Inventory tracking system |
+| [CybAI](https://github.com/OlgaOrl/CybAI) | Python · Flask · Claude API | Cybersecurity AI tool (team hackathon) |
 
 ### Languages
 
-🇬🇧 English · 🇪🇪 Estonian · 🇷🇺 Russian
+🇪🇪 Estonian (C1) · 🇬🇧 English (B2) · 🇷🇺 Russian (native)
+
+### Contact
+
+📧 olga88orlova@gmail.com
