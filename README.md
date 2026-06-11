@@ -6,21 +6,21 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 
 ### Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| 🛠 **Languages** | Java · JavaScript · TypeScript · Python · Go · PHP · Ruby · SQL |
-| ⚙️ **Backend** | Spring Boot · FastAPI · Flask · Express · Hono · Ruby on Rails · Apache CXF (SOAP) |
-| 🎨 **Frontend** | React · Vue 2 · Bootstrap · Thymeleaf · HTML · CSS |
-| 📱 **Mobile** | React Native · Expo |
-| 🗄 **Databases** | PostgreSQL · MySQL · MSSQL · SQLite |
-| 🔌 **APIs** | REST · SOAP · GraphQL · gRPC · WebSocket · OpenAPI/Swagger |
-| 🧩 **Integrations** | PlutoF API · Firebase · Twilio |
-| 🚀 **DevOps** | Git · GitHub · GitHub Actions · Docker · nginx · SSH |
-| 🖥 **Servers** | Linux (Ubuntu, Alpine) · Hetzner Cloud |
-| 🧪 **Testing** | JUnit · JaCoCo · pytest · Jest · Maestro (mobile E2E) · Playwright · Cucumber/Gherkin (BDD) · k6 |
-| ✨ **Code quality** | SOLID · DRY · YAGNI · code smells · MVC · ESLint · code review |
-| 🤖 **AI** | Anthropic Claude API · PyTorch · Vision Transformer (ViT) |
-| 🔒 **Security** | OWASP audit · OAuth2 · Firebase Auth · JWT · bcrypt · TLS · Rate limiting · Cloudflare (Bot/DDoS) · UFW · fail2ban |
+<table>
+<tr><td width="220">🛠 <b>Languages</b></td><td>Java · JavaScript · TypeScript · Python · Go · PHP · Ruby · SQL</td></tr>
+<tr><td>⚙️ <b>Backend</b></td><td>Spring Boot · FastAPI · Flask · Express · Hono · Ruby on Rails · Apache CXF (SOAP)</td></tr>
+<tr><td>🎨 <b>Frontend</b></td><td>React · Vue 2 · Bootstrap · Thymeleaf · HTML · CSS</td></tr>
+<tr><td>📱 <b>Mobile</b></td><td>React Native · Expo</td></tr>
+<tr><td>🗄 <b>Databases</b></td><td>PostgreSQL · MySQL · MSSQL · SQLite</td></tr>
+<tr><td>🔌 <b>APIs</b></td><td>REST · SOAP · GraphQL · gRPC · WebSocket · OpenAPI/Swagger</td></tr>
+<tr><td>🧩 <b>Integrations</b></td><td>PlutoF API · Firebase · Twilio</td></tr>
+<tr><td>🚀 <b>DevOps</b></td><td>Git · GitHub · GitHub Actions · Docker · nginx · SSH</td></tr>
+<tr><td>🖥 <b>Servers</b></td><td>Linux (Ubuntu, Alpine) · Hetzner Cloud</td></tr>
+<tr><td>🧪 <b>Testing</b></td><td>JUnit · JaCoCo · pytest · Jest · Maestro (mobile E2E) · Playwright · Cucumber/Gherkin (BDD) · k6</td></tr>
+<tr><td>✨ <b>Code quality</b></td><td>SOLID · DRY · YAGNI · code smells · MVC · ESLint · code review</td></tr>
+<tr><td>🤖 <b>AI</b></td><td>Anthropic Claude API · PyTorch · Vision Transformer (ViT)</td></tr>
+<tr><td>🔒 <b>Security</b></td><td>OWASP audit · OAuth2 · Firebase Auth · JWT · bcrypt · TLS · Rate limiting · Cloudflare (Bot/DDoS) · UFW · fail2ban</td></tr>
+</table>
 
 ### Featured Projects
 
