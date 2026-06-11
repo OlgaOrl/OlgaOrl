@@ -36,10 +36,12 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | Node.js · Java · Go | Same business logic across 4 API paradigms (REST / SOAP / GraphQL / gRPC) |
-| [Numerology](https://github.com/OlgaOrl/Numerology) | Java · Spring Boot · Thymeleaf | Web app — Spring Boot REST + service layer practice |
-| [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript | Inventory tracking system |
-| [CybAI](https://github.com/OlgaOrl/CybAI) | Python · Flask · Claude API | Cybersecurity AI tool (team hackathon) |
+| [olgabank](https://github.com/OlgaOrl/olgabank) | Node.js · Express 5 · MySQL · JWT · bcrypt · Swagger UI | Banking REST API: authentication, account management, transfers |
+| [Minibank](https://github.com/OlgaOrl/Minibank) | Cucumber · Gherkin · Jest · Docker | Banking app with BDD test suite (behaviour-driven development practice) |
+| [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | Node.js · Java · Apache CXF · Go · gRPC | Same business logic across 4 API paradigms (REST / SOAP / GraphQL / gRPC) |
+| [Numerology](https://github.com/OlgaOrl/Numerology) | Java 17 · Spring Boot · Spring Data JPA · Thymeleaf · H2 · Lombok · Maven · Checkstyle · JaCoCo · Spotless | Web app — Spring Boot REST + service layer + CI quality gates |
+| [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript · Prisma | Inventory tracking system with type-safe ORM |
+| [CybAI](https://github.com/OlgaOrl/CybAI) | Python · Flask · Anthropic Claude API · Flask-Limiter · Twilio · pytest | Cybersecurity AI tool with rate-limiting and SMS alerts (team hackathon) |
 
 ### Languages
 
