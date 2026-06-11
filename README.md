@@ -10,7 +10,7 @@
 
 Based in Estonia. Recently certified (EstQF Level 4).
 
-After 780 hours of industry internship at Diara Infra OÜ, looking for a junior developer position - open to backend, fullstack or mobile roles. Remote or Tartu hybrid.
+After 780 hours of industry internship at Diara Infra OÜ, looking for a junior developer position - open to backend, fullstack or mobile roles. Remote or hybrid.
 
 ### Tech Stack
 
