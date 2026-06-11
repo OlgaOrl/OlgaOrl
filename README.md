@@ -10,7 +10,7 @@
 
 ## Junior Software Developer
 
-Based in Estonia, recently certified (EKR level 4 kutsetunnistus).
+Based in Estonia, recently certified (EKR level 4 kutsetunnistus — Estonian professional qualification certificate).
 
 After 780 hours of industry internship at Diara Infra OÜ, looking for a junior developer position - open to backend, fullstack or mobile roles. Remote or Tartu hybrid.
 
