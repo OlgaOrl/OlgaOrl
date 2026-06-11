@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Olga%20Orlova&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Junior%20Software%20Developer%20·%20Estonia&descSize=26&descAlignY=72" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Olga%20Orlova&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Junior%20Software%20Developer%20·%20🇪🇪%20Estonia&descSize=24&descAlignY=72" alt="header"/>
 </p>
 
 <p align="center">
@@ -8,11 +8,7 @@
   </a>
 </p>
 
-## Junior Software Developer, EstQF Level 4
-
-Based in Estonia.
-
-After 780 hours of industry internship at Diara Infra OÜ, looking for a junior developer position - open to backend, fullstack or mobile roles. Remote or Tartu hybrid.
+Just graduated from VIKK Noorem tarkvaraarendaja program (EstQF Level 4). After 780 hours of industry internship at Diara Infra OÜ, looking for a junior developer position - open to backend, fullstack or mobile roles. Remote or Tartu hybrid.
 
 ### Tech Stack
 
