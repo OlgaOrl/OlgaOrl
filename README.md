@@ -175,5 +175,7 @@ After 780 hours of industry internship at Diara Infra OÜ, looking for a junior 
 ### Languages
 
 ![Estonian](https://img.shields.io/badge/Estonian-C1-4682B4?style=for-the-badge)
+
 ![English](https://img.shields.io/badge/English-B2-4682B4?style=for-the-badge)
+
 ![Russian](https://img.shields.io/badge/Russian-Native-4682B4?style=for-the-badge)
