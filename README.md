@@ -6,16 +6,18 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 
 ### Tech Stack
 
-**Languages:** Java · JavaScript · TypeScript · Python · Go · PHP · Ruby · SQL
-**Backend:** Spring Boot · FastAPI · Express · Hono · Apache CXF (SOAP)
-**Frontend / Mobile:** React · React Native · Vue 2 · HTML · CSS
-**Databases:** PostgreSQL · MySQL · MSSQL · SQLite
-**APIs:** REST · SOAP · GraphQL · WebSocket
-**DevOps:** Git · GitHub · GitHub Actions · Docker · Linux · nginx · SSH
-**Testing:** JUnit · pytest · Playwright · k6
-**Code quality:** SOLID · DRY · YAGNI · code smells · MVC · ESLint · code review
-**AI:** Anthropic Claude API · PyTorch · Vision Transformer (ViT)
-**Security:** OWASP · KüTS · E-ITS
+| Category | Technologies |
+|----------|--------------|
+| 🛠 **Languages** | Java · JavaScript · TypeScript · Python · Go · PHP · Ruby · SQL |
+| ⚙️ **Backend** | Spring Boot · FastAPI · Express · Hono · Apache CXF (SOAP) |
+| 🎨 **Frontend / Mobile** | React · React Native · Vue 2 · HTML · CSS |
+| 🗄 **Databases** | PostgreSQL · MySQL · MSSQL · SQLite |
+| 🔌 **APIs** | REST · SOAP · GraphQL · WebSocket |
+| 🚀 **DevOps** | Git · GitHub · GitHub Actions · Docker · Linux · nginx · SSH |
+| 🧪 **Testing** | JUnit · pytest · Playwright · k6 |
+| ✨ **Code quality** | SOLID · DRY · YAGNI · code smells · MVC · ESLint · code review |
+| 🤖 **AI** | Anthropic Claude API · PyTorch · Vision Transformer (ViT) |
+| 🔒 **Security** | OWASP · KüTS · E-ITS |
 
 ### Featured Projects
 
