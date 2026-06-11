@@ -17,7 +17,7 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 | 🧪 **Testing** | JUnit · pytest · Playwright · k6 |
 | ✨ **Code quality** | SOLID · DRY · YAGNI · code smells · MVC · ESLint · code review |
 | 🤖 **AI** | Anthropic Claude API · PyTorch · Vision Transformer (ViT) |
-| 🔒 **Security** | OWASP |
+| 🔒 **Security** | OWASP audit · OAuth2 · Firebase Auth · JWT · bcrypt · TLS · Rate limiting · Cloudflare (Bot/DDoS) · UFW · fail2ban |
 
 ### Featured Projects
 
