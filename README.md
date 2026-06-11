@@ -2,7 +2,7 @@
 
 **Junior Software Developer** based in Estonia, recently certified (EKR level 4, kutsetunnistus nr 240595).
 
-After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a junior developer position — open to backend, fullstack or mobile roles. Remote, Tartu or Tallinn.
+After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a junior developer position — open to backend, fullstack or mobile roles. Remote or Tartu hybrid.
 
 ### Tech Stack
 
