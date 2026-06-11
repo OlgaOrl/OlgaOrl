@@ -2,7 +2,7 @@
 
 **Junior Software Developer** based in Estonia, recently certified (EKR level 4, kutsetunnistus nr 240595).
 
-After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a junior developer position — open to backend, fullstack or mobile roles. Remote or Tartu hybrid.
+After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a junior developer position - open to backend, fullstack or mobile roles. Remote or Tartu hybrid.
 
 ### Tech Stack
 
@@ -26,7 +26,7 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [Tree Fungi Identifier](https://github.com/OlgaOrl/Tree_Fungi_Identifier) | TypeScript · React Native · Expo · Firebase · Python · FastAPI · PyTorch · ViT · SQLite | <img src="tree_fungi_qr.png" width="100" align="right" alt="Google Play QR"> AI mobile app for Estonian Arborists Association — 40 tree fungi species identification from photo, multilingual (ET/EN/RU), GPS location, PlutoF integration. **[Available on Google Play](https://play.google.com/store/apps/details?id=com.olgaorl.treefungiidentifier)** |
+| [Tree Fungi Identifier](https://github.com/OlgaOrl/Tree_Fungi_Identifier) | TypeScript · React Native · Expo · Firebase · Python · FastAPI · PyTorch · ViT · SQLite | <img src="tree_fungi_qr.png" width="100" align="right" alt="Google Play QR"> AI mobile app for Estonian Arborists Association - 40 tree fungi species identification from photo, multilingual (ET/EN/RU), GPS location, PlutoF integration. **[Available on Google Play](https://play.google.com/store/apps/details?id=com.olgaorl.treefungiidentifier)** |
 
 ### Internship Projects @ Diara Infra OÜ
 
@@ -34,7 +34,7 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 |---------|-------|-------------|
 | Puhastusproff Finar | PHP 8.2 · MySQL · MSSQL · Docker · WebSocket | Production ERP system. Worked across multiple core modules: sales orders (detail view, autosave, real-time WebSocket sync, snapshot recovery), purchase invoices (approval, revoke, inline row editing, automatic rounding), salary (approval workflow, audit log, holiday bonus calculation), password security (complexity validation, Estonian word generator, forced change), and deploy infrastructure (env-helper, pre-push hooks, migration system) |
 | Topograph | TypeScript · Bun · React 19 · Hono · Drizzle | Internal network topology management app (client: Tõrva Vallavalitsus). Added new device flagging, email notifications, missing device tracking with color indicators |
-| Piletimaailm | Ruby on Rails · Go · Docker · Alpine | Online ticketing platform — disaster recovery, server migration, sandboxed local dev. Migrated production Docker Swarm stack to new host, restored PostgreSQL, authored runbooks validated end-to-end on a fresh VM |
+| Piletimaailm | Ruby on Rails · Go · Docker · Alpine | Online ticketing platform - disaster recovery, server migration, sandboxed local dev. Migrated production Docker Swarm stack to new host, restored PostgreSQL, authored runbooks validated end-to-end on a fresh VM |
 | Puukool | PHP · Vue 2 · Pusher | Garden centre management system. Diagnosed and fixed Pusher realtime AJAX error returning HTML on failure |
 
 ### School & personal projects
@@ -44,7 +44,7 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 | [olgabank](https://github.com/OlgaOrl/olgabank) | Node.js · Express 5 · MySQL · JWT · bcrypt · Swagger UI | Banking REST API: authentication, account management, transfers |
 | [Minibank](https://github.com/OlgaOrl/Minibank) | JavaScript · Jest · Docker | Banking app with Jest test suite |
 | [ebay-clone-api](https://github.com/OlgaOrl/ebay-clone-api) | Node.js · Java · Apache CXF · Go · gRPC | Same business logic across 4 API paradigms (REST / SOAP / GraphQL / gRPC) |
-| [Numerology](https://github.com/OlgaOrl/Numerology) | Java 17 · Spring Boot · Spring Data JPA · Thymeleaf · H2 · Lombok · Maven · Checkstyle · JaCoCo · Spotless | Web app — Spring Boot REST + service layer + CI quality gates |
+| [Numerology](https://github.com/OlgaOrl/Numerology) | Java 17 · Spring Boot · Spring Data JPA · Thymeleaf · H2 · Lombok · Maven · Checkstyle · JaCoCo · Spotless | Web app - Spring Boot REST + service layer + CI quality gates |
 | [Inventory-Management-System](https://github.com/OlgaOrl/Inventory-Management-System) | TypeScript · Prisma | Inventory tracking system with type-safe ORM |
 | [CybAI](https://github.com/OlgaOrl/CybAI) | Python · Flask · Anthropic Claude API · Flask-Limiter · Twilio · pytest | Cybersecurity AI tool with rate-limiting and SMS alerts (team hackathon) |
 
