@@ -21,13 +21,13 @@ After 780 hours of industry internship at Diara Infra OÜ, I'm looking for a jun
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [Tree Fungi Identifier](https://github.com/OlgaOrl/Tree_Fungi_Identifier) | React Native · FastAPI · PyTorch | AI mobile app for Estonian Arborists Association — 40 tree fungi species identification. **Published on iOS App Store + Google Play.** |
+| [Tree Fungi Identifier](https://github.com/OlgaOrl/Tree_Fungi_Identifier) | React Native · FastAPI · PyTorch | AI mobile app for Estonian Arborists Association — 40 tree fungi species identification. **[Available on Google Play](https://play.google.com/store/apps/details?id=com.olgaorl.treefungiidentifier).** |
 
 ### Internship Projects @ Diara Infra OÜ
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| Puhastusproff Finar | PHP 8.2 · MySQL · MSSQL · Docker | ERP system. Implemented sales order autosave with WebSocket sync, purchase invoice inline editing, salary approval workflow, password security generator with Estonian words |
+| Puhastusproff Finar | PHP 8.2 · MySQL · MSSQL · Docker · WebSocket | Production ERP system. Worked across multiple core modules: sales orders (detail view, autosave, real-time WebSocket sync, snapshot recovery), purchase invoices (approval, revoke, inline row editing, automatic rounding), salary (approval workflow, audit log, holiday bonus calculation), password security (complexity validation, Estonian word generator, forced change), and deploy infrastructure (env-helper, pre-push hooks, migration system) |
 | Topograph | TypeScript · Bun · React 19 · Hono · Drizzle | Internal network topology management app (client: Tõrva Vallavalitsus). Added new device flagging, email notifications, missing device tracking with color indicators |
 | Piletimaailm | Ruby on Rails · Go · Docker · Alpine | Online ticketing platform — disaster recovery, server migration, sandboxed local dev. Migrated production Docker Swarm stack to new host, restored PostgreSQL, authored runbooks validated end-to-end on a fresh VM |
 | Puukool | PHP · Vue 2 · Pusher | Garden centre management system. Diagnosed and fixed Pusher realtime AJAX error returning HTML on failure |
